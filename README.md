@@ -6,6 +6,8 @@ Forum Hub é uma **API Rest** para o gerenciamento de tópicos e discussões, de
 
 ## Funcionalidades
 
+As funcionalidades foram implementadas com base nas regras de negócio descritas no [Trello]([https://gutendex.com/](https://trello.com/b/OKIUKgxe/alura-f%C3%B3rum-challenge-one-sprint-01))
+
 ### Cadastro de Tópicos
 Permite registrar novos tópicos, validando a unicidade de título e mensagem.
 
