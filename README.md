@@ -1,3 +1,9 @@
+<div>
+    <p>
+        <img src="badge_forumhub.png" height="300" tittle="site"> 
+    </p>
+</div>
+
 # Fórum Hub
 
 Forum Hub é uma **API Rest** para o gerenciamento de tópicos e discussões, desenvolvida como parte do challenge promovido pela **Alura** em parceria com o programa **Oracle Next Education**.
